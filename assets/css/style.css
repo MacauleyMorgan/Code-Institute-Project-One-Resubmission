@@ -225,3 +225,64 @@ table a {
 #external {
     text-decoration: none;
 }
+
+@media screen and (max-width:800px) {
+    #pricing {
+        display: block;
+    }
+
+    .card {
+        margin: 1%;
+        width: 97.5%;
+        height: auto;
+        padding-bottom: 2%;
+    }
+
+    .card p {
+        height: auto;
+    }
+
+    .hero-image {
+        height: 200px;
+    }
+
+    .nav-item {
+        margin: auto;
+    }
+
+    .location {
+        padding-top: 0;
+        padding-inline: 5px;
+    }
+
+    .location ul {
+        padding-inline: 0;
+    }
+
+    .trainer-card {
+        width: auto;
+        margin: 10px 10px;
+    }
+
+    .trainer-card p {
+        font-size: 0.9rem;
+        font-weight: 500;
+    }
+
+    #company-title {
+        margin-left: 20px;
+    }
+
+    .block-button {
+        display: block;
+    }
+
+    table {
+        width: 95%;
+        font-size: 0.8rem;
+    }
+
+    #future-button {
+        margin: 0 auto;
+    }
+}
