@@ -122,3 +122,11 @@ ul {
     display: flex;
     justify-content: space-around;
 }
+
+footer {
+    padding: 0 15px 15px 15px;
+}
+
+.card-text {
+    margin-bottom: 50px;
+}
