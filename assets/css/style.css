@@ -92,7 +92,7 @@ header {
     font-size: 1.2rem;
 }
 
-#future-button {
+.future-button {
     color: #3C4A3E;
     background-color: #fafafa;
     border-radius: 5px;
@@ -246,6 +246,7 @@ table a {
 
     .card p {
         height: auto;
+        font-size: 1.2rem;
     }
 
     .hero-image {
@@ -362,6 +363,10 @@ table a {
         margin-bottom: 5px;
         font-size: 0.8rem;
 
+    }
+
+    .card p{
+        font-size: 0.9rem;
     }
 
     .navigation a {
