@@ -286,3 +286,54 @@ table a {
         margin: 0 auto;
     }
 }
+
+@media screen and (max-width:610px) {
+    header {
+        display: block;
+        height: auto;
+    }
+
+    .logo {
+        text-align: center;
+        width: 100%;
+        height: 40px;
+        margin-top: 0px;
+    }
+
+    .navigation {
+        padding-inline: 0;
+        display: block;
+        text-align: center;
+        padding-block: 10px;
+        letter-spacing: 0.05rem;
+    }
+
+    .trainer-card p {
+        font-size: 0.75rem;
+    }
+
+    .location {
+        font-size: 0.8rem;
+    }
+
+    .location h2 {
+        font-size: 1.8rem;
+    }
+
+    header {
+        height: 150px;
+    }
+
+    .newsletter label {
+        display: block;
+    }
+
+    .newsletter input {
+        text-align: center;
+        width: 85%;
+    }
+
+    .card-text {
+        margin-bottom: 0px;
+    }
+}
