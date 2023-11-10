@@ -166,3 +166,62 @@ footer {
     padding-inline: 5%;
     font-size: 1.05rem;
 }
+
+.fac {
+    width: 75%;
+    text-align: justify;
+    margin-left: 12.5%;
+}
+
+table {
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 55%;
+    text-align: center;
+}
+
+td {
+    padding-top: 10px;
+}
+
+table a {
+    text-decoration: none;
+    background: #16db65;
+    border-radius: 3px;
+    padding: 5px;
+    color: #3C4A3E;
+    font-weight: 600;
+    box-shadow: 0 0 1px 0;
+    font-size: 0.9rem;
+}
+
+.confirmation {
+    text-align: center;
+    padding: 50px;
+    font-size: 1.5rem;
+    font-weight: 600;
+
+}
+
+.return {
+    text-decoration: none;
+    background-color: #16db65;
+    padding: 10px;
+    color: #3C4A3E;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0;
+    font-size: 1.2rem;
+}
+
+.newsletter {
+    text-align: center;
+}
+
+.newsletter input {
+    margin: 5px 15px;
+}
+
+#external {
+    text-decoration: none;
+}
