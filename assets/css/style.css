@@ -13,3 +13,48 @@ body {
     background-color: #fafafa;
     border-radius: 10px;
 }
+/* Navigation Items */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    background-color: #16db65;
+    box-shadow: black 1px 1px 5px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#company-title {
+    text-shadow: 0px 0px 3px;
+    margin-left: 20px;
+}
+
+.logo {
+    padding-top: 1px;
+    width: 30%;
+    height: 80px;
+    border-radius: 2vw;
+}
+
+.navigation {
+    display: flex;
+}
+
+.nav-item {
+    list-style: none;
+    margin-inline: 0.7rem;
+}
+
+.navigation a {
+    margin-inline: 1ch;
+    text-decoration: none;
+    padding: 0.5rem;
+    font-size: 1rem;
+    color: #000000;
+    font-weight: 600;
+}
+
+.navigation a:hover {
+    box-shadow: black 0px 0px 5px 2px;
+    border-radius: 5px;
+}
