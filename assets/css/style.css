@@ -58,3 +58,67 @@ header {
     box-shadow: black 0px 0px 5px 2px;
     border-radius: 5px;
 }
+/* Contents */
+
+.hero-image {
+    height: 500px;
+    width: 100%;
+}
+
+#pricing {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    margin: -100px;
+    height: 200px;
+    width: 25%;
+    background-color: #16db65;
+    box-shadow: 0px 0px 10px 0px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 2px;
+}
+
+.card p {
+    padding: 5px;
+    height: 30px;
+    font-size: 0.8rem;
+}
+
+.card h2 {
+    font-size: 1.2rem;
+}
+
+#future-button {
+    color: #3C4A3E;
+    background-color: #fafafa;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0;
+    font-size: 1.6rem;
+    width: 60%;
+    margin: auto;
+}
+
+.location {
+    text-align: center;
+    margin-top: -10px;
+    padding-top: 110px;
+    background-color: #ffffff;
+
+}
+
+.location h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+ul {
+    margin-top: 25px;
+    ;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
