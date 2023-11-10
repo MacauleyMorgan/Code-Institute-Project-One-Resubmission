@@ -130,3 +130,39 @@ footer {
 .card-text {
     margin-bottom: 50px;
 }
+
+/* Meet the PT's */
+
+.trainer-card {
+    background: rgba(0, 0, 0, 0.05);
+    width: 75%;
+    margin-left: 12.5%;
+    box-shadow: 0 0 2px 0px;
+    border-radius: 5px;
+    padding: 0.5%;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.content-title {
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 0 0 1px;
+}
+
+.trainer-info {
+    display: flex;
+    text-align: justify;
+    width: 95%;
+    margin-inline: 2.5%;
+}
+
+.trainer-image {
+    width: 30%;
+    margin: auto;
+}
+
+.trainer-info p {
+    padding-inline: 5%;
+    font-size: 1.05rem;
+}
