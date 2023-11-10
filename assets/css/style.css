@@ -337,3 +337,41 @@ table a {
         margin-bottom: 0px;
     }
 }
+
+@media screen and (max-width:510px) {
+
+    .trainer-info {
+        display: block;
+    }
+
+    .trainer-image {
+        width: 100%;
+    }
+
+    .location ul {
+        display: block;
+    }
+
+    .card {
+        margin-bottom: 5px;
+        font-size: 0.8rem;
+
+    }
+
+    .navigation a {
+        padding: 0.2rem;
+    }
+
+    .nav-item {
+        margin-top: 5px;
+    }
+
+    .navigation a:hover {
+        box-shadow: none;
+    }
+
+    footer {
+        font-size: 0.6rem;
+        ;
+    }
+}
