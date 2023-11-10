@@ -215,38 +215,7 @@ The lighthouse extension was used to provide accessibility information when the 
 
 # Functional Testing
 
-**Nav Bar Testing**			
-Test	Expected Outcome	Pass/Fail	Fail Reason
-Click Home	Navigate Home	Pass	
-Click Meet the PTs	Navigate to pts.html	Pass	
-Click Find a Class	Navigate to classes.html	Pass	
-			
-**Index Testing**			
-Test	Expected Outcome	Pass/Fail	Fail Reason
-Resize down to 280px	Site looks visually pleasing	Pass	
-Click footer link	Open new tab to follow link	Pass	
-			
-**Meet the PTs Testing**			
-Test	Expected Outcome	Pass/Fail	Fail Reason
-Resize down to 280px	Site looks visually pleasing	Pass	
-			
-**Classes Testing**			
-Test	Expected Outcome	Pass/Fail	Fail Reason
-Resize down to 280px	Site looks visually pleasing	Pass	
-Feed form incomplete data	Form prompts user of error	Pass	
-Feed form complete data	Form directs user to submission page	Pass	
-			
-**Register Testing**			
-Test	Expected Outcome	Pass/Fail	Fail Reason
-Resize down to 280px	Site looks visually pleasing	Pass	
-Click anchor link to return home	Navigate to index.html	Pass	
-Click video to play	Video plays content	Pass	
-			
-**404 Testing**		
-Test	Expected Outcome	Pass/Fail	Fail Reason
-Resize down to 280px	Site looks visually pleasing	Pass	
-Click anchor link to return home	Navigate to index.html	Pass	
-
+![Functional testing](/assets/images/functional-testing.png "Functional Testing")
 
 # Validation Testing
 ## HTML validator
