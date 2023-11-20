@@ -263,5 +263,7 @@ The live site link can be found here [Live Site](https://macauleymorgan.github.i
 
 # Credits
 ## Image Attribution
+## Code Written
+The code written in the HTML and CSS files are custom codes written by myself as the developer for submission of the project and are for personal development and educational purposes (with the exception of the GPT generated PT paragraphs specified earlier in technologies utilized part of Readme)
 
 Project for a crossfit gym made for educational purposes to complete milestone project one for Code Institute.
